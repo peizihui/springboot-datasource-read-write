@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "druid.init.prefix",
+  "type": "java.lang.String",
+  "description": "A description for 'druid.init.prefix'"
+}]}
